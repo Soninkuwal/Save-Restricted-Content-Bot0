@@ -22,11 +22,11 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "7056062943:AAGkfMc8BqXyzZpOq4oGo3tNMEouw58JgF8"
+            "value": "6942073459:AAHKip8GeaIIYYyxvvRnLyCRWwjh4PNhvRA"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BQE_mLYAFMehCOzfIBzOSXHVRoVKbX3AntKkL0F_A2eQZBsSHyg3GAOPK0fq8P_emlDhh9Tfg5vOSIqioDIm9v0-SkOddnmMacz8naQDFdYWL4EqmWG6OWM2gWYlxONo__tYOoIxt8Wzfq1AvzI7N8Rr29HewMzfyydtnq1XUoJF8zhw0f9Zx8RpXHuhvH4o2fYBOhRAAXGCeS5ChehVclBuuVI0zp4xd2vHNJ4JcL976je0SR9x7awke8K9PZh7Wesq2KMk6a7ze8KnXl06T040cEBn095ApJh8u_c-E8fVGgVOkx7fMKCDEkGFc5pIk1bQw-hrgS7LWk_w15gkRkYahCzBygAAAAGkkvnfAQ"
+            "value": "BQE_mLYASzyaquU6RUbz5BcaPL63UdLe_yGAQmui5vHkrjgU3VGyY3cOLMfhGoATJpMyS6hOVBXjCoLX7pca9eiX4RHwAIt7hT0et09tI3fmT7OY5PuuFN8pBNn5Bdg_mQjqrNnZbraKcC6dNWXGoD7XuDRdcFGYv6cakyR7xPLfdNJ11Roqa2l-Y0EGhCuQ4yGRtCpNBNdScZSTxYoI-DwUuoGHvJ6sUEM0SxoCDZ4qEhpdemK8FDFHBOEalTBEnqd9lhxy3LXZTvT9OecleWi-kgyOWaUFIgKK5Btcd6YdZkWe2zL0OJ2z4Zuknj_n-WuuPa4YMiAwp_5K0HSfNGLjXzEVNQAAAABjNGBtAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
