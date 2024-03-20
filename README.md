@@ -85,7 +85,8 @@ python3 -m main
 - Star the repo, and fork it in desktop mode
 - Go to settings of your forked repo
 - Rename your repo by any other name
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on  [![Deploy](<a href="https://dashboard.heroku.com/new?template=https://github.com/Soninkuwal/uploader-bot-v4"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+)
  
 » Method - 2:
 - Star the repo, and fork it in desktop mode
