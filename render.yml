@@ -3,7 +3,7 @@ services:
   - type: web
     name:Save-Restricted-Content-Bot 
     env: python
-    startCommand: python main.py
+    startCommand: python -m main
     buildCommand: pip3 install -U -r requirements.txt
     repo: https://github.com/Soninkuwal/Save-Restricted-Content-Bot.git # optional
     region: oregon # optional (defaults to oregon)
