@@ -30,7 +30,7 @@
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "1664376941"
+            "value": "1664376941 1139197196"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
