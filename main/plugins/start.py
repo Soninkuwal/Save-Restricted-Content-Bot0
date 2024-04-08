@@ -5,7 +5,7 @@ from telethon.tl.types import InputMediaPhoto
 
 S = "/start"
 START_PIC = "https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg"
-TEXT = "Send me the Link of any message of Restricted Channels to Clone it here.\nFor private channel's messages, send the Invite Link first.\n\n👉🏻Execute /batch for bulk process upto 10K files range."
+TEXT = "Send me the Link of any message of Restricted Channels to Clone it here.\n\nBot SAVE contact Link Ex- https://t.me/b/botusername/××××\n channel & group link Ex- https://t.me/c/××××××××/××× \n\nFor private channel's messages, send the Invite Link first.\n\n👉🏻Execute /batch for bulk process upto 10K files range."
 
 def is_set_button(data):
     return data == "set"
